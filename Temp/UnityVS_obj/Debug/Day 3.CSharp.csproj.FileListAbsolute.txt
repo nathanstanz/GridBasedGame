@@ -1,0 +1,15 @@
+C:\Users\oneni\Documents\Day 3\Temp\UnityVS_bin\Debug\Assembly-CSharp.dll
+C:\Users\oneni\Documents\Day 3\Temp\UnityVS_bin\Debug\Assembly-CSharp.pdb
+C:\Users\oneni\Documents\Day 3\Temp\UnityVS_bin\Debug\UnityEditor.dll
+C:\Users\oneni\Documents\Day 3\Temp\UnityVS_bin\Debug\UnityEngine.Analytics.dll
+C:\Users\oneni\Documents\Day 3\Temp\UnityVS_bin\Debug\UnityEngine.dll
+C:\Users\oneni\Documents\Day 3\Temp\UnityVS_bin\Debug\UnityEngine.Networking.dll
+C:\Users\oneni\Documents\Day 3\Temp\UnityVS_bin\Debug\UnityEngine.UI.dll
+C:\Users\oneni\Documents\Day 3\Temp\UnityVS_bin\Debug\UnityEngine.xml
+C:\Users\oneni\Documents\Day 3\Temp\UnityVS_bin\Debug\UnityEngine.UI.xml
+C:\Users\oneni\Documents\Day 3\Temp\UnityVS_bin\Debug\UnityEngine.Networking.xml
+C:\Users\oneni\Documents\Day 3\Temp\UnityVS_bin\Debug\UnityEngine.Analytics.xml
+C:\Users\oneni\Documents\Day 3\Temp\UnityVS_bin\Debug\UnityEditor.xml
+C:\Users\oneni\Documents\Day 3\Temp\UnityVS_obj\Debug\Day 3.CSharp.csprojResolveAssemblyReference.cache
+C:\Users\oneni\Documents\Day 3\Temp\UnityVS_obj\Debug\Assembly-CSharp.dll
+C:\Users\oneni\Documents\Day 3\Temp\UnityVS_obj\Debug\Assembly-CSharp.pdb
